@@ -3,6 +3,9 @@
 ## Introduction
 The AI Story Generator Web App allows parents and kids to co-create unique and engaging bedtime stories. By inputting preferences such as characters, settings, and themes, users can generate personalized stories using the power of the Llama 3 AI model. The app also features a read-aloud function and the ability to save and share stories.
 
+## Backend
+https://github.com/Shahmeerbaig1/storyteller-flask
+
 ## Features
 - **Interactive Story Creation**: Choose characters, settings, and themes for your stories.
 - **AI-Generated Content**: Stories are generated based on user inputs using Llama 3.
