@@ -5,4 +5,4 @@
 npm run build
 
 # Install Python packages using pip
-pip install -r requirements.txt
+pip install -r backend/requirements.txt
